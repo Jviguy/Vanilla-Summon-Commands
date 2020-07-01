@@ -1,0 +1,9 @@
+---
+name: SummonCommands
+version: 0.0.1
+main: JviguyGamesYT\SummonCommands\Main
+api: 3.13.0
+commands:
+  summon:
+    description: "Usage: /summon (entities_name or entity_list for a list of all spawnable entities) (@p or @s or A Players Name!)"
+...
