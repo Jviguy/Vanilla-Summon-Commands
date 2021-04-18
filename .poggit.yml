@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/Jviguy/Vanilla-Summon-Commands
+build-by-default: true
+branches:
+- master
+projects:
+  SummonCommands:
+    path: SummonCommands/
+...
